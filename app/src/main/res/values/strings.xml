@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Biometric Authentication Demo</string>
+    <string name="biometric_prompt_title">Biometric login</string>
+    <string name="biometric_prompt_description">Log in using your biometric credential</string>
+    <string name="dialog_username_hint">Username</string>
+    <string name="dialog_password_hint">Password</string>
+    <string name="authenticate_button_text">Authenticate</string>
+    <string name="authentication_error_text">Authentication error</string>
+    <string name="authentication_failed_text">Authentication failed</string>
+    <string name="dialog_login_title">Use your credentials to log in</string>
+    <string name="dialog_login_positive_button">Log In</string>
+    <string name="dialog_login_negative_button">Cancel</string>
+    <string name="logged_in">Logged In</string>
+</resources>
